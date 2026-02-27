@@ -3,7 +3,7 @@
   "displayName": "Faah Failure Alert",
   "description": "Plays faah audio on test failures or lint errors.",
   "version": "0.0.1",
-  "publisher": "hrajput0322",
+  "publisher": "harsh-hrajput0322",
   "engines": {
     "vscode": "^1.85.0"
   },
